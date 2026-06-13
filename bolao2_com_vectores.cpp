@@ -1,3 +1,4 @@
+// bolão utilizando biblioteca vector para utilizar vectores dinamicos 
 #include <iostream>
 #include <vector>   // Biblioteca essencial para usar vetores dinâmicos
 #include <string>
