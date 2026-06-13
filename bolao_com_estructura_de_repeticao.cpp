@@ -1,4 +1,4 @@
-// aula de estructur de repetição, exercicio bolão com if else.
+// aula de estructur de repetição, exercicio bolão com do and if else.
 #include <iostream>
 #include <string>
 
